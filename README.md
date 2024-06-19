@@ -1,2 +1,2 @@
 # Learn-rust
-Rust tutorial
+Rust, git and programming essentials.
